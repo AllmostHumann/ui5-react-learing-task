@@ -1,3 +1,25 @@
+# UI5 React Learning Task
+
+## [Demo](https://allmosthumann.github.io/ui5-react-learing-task/)
+
+## Introduction
+
+Hey! This is my learning task for UI5 webcomponents for React. Nothing special, but it's about time to learn something new!
+
+Cheers!
+
+## Description
+
+UI5 React Learning Task, made with Vite.js
+
+## Technologies
+
+- React.js
+- Vite
+- TypeScript
+- TanStack Router
+- UI5 webcomponents
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -22,7 +44,7 @@ export default {
     project: ['./tsconfig.json', './tsconfig.node.json'],
     tsconfigRootDir: __dirname,
   },
-}
+};
 ```
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
