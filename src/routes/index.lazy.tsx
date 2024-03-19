@@ -9,11 +9,11 @@ import {
 } from '@ui5/webcomponents-react';
 import { spacing } from '@ui5/webcomponents-react-base';
 
-export const Route = createLazyFileRoute('/home')({
-  component: Home,
+export const Route = createLazyFileRoute('/')({
+  component: Index,
 });
 
-function Home() {
+function Index() {
   return (
     <div>
       <FlexBox

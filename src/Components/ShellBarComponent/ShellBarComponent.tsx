@@ -14,7 +14,7 @@ export const ShellBarComponent = () => {
         </Avatar>
       }
       primaryTitle='UI5 React Test App'
-      onClick={() => navigate({ to: '/home' })}
+      onClick={() => navigate({ to: '/' })}
     >
       <ShellBarItem
         icon={addIcon}
