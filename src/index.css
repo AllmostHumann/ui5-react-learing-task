@@ -1,3 +1,7 @@
 * {
   --sapTile_TitleTextColor: limegreen;
 }
+
+body {
+  background: var(--sapBackgroundColor);
+}
